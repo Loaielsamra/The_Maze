@@ -1,24 +1,16 @@
 # Maze
 
-Maze is a 2D game developed using raycasting in C and the SDL2 library. It offers an immersive gameplay experience similar to Wolfenstein 3D, where players navigate through a maze-like environment.
-
-![Image not found](images/maze-game.gif)
+The Maze game, developed in C using raycasting and the SDL2 library, offers players an immersive gameplay reminiscent of Wolfenstein 3D. In this 2D environment, players navigate through maze-like corridors, engaging in an experience that evokes the classic thrill of exploration and discovery.
 
 ## Introduction
 
-My inspiration to undertake the Maze game project was driven by the challenge presented to me - the requirement to implement raycasting algorithms using the C programming language and the SDL2 library. While initially daunting, this challenge ignited a curiosity within me to explore the inner workings of raycasting and understand its fundamental principles.
+My decision to undertake the Maze game project was prompted by unexpected circumstances, as time constraints necessitated a shift in plans. Despite this deviation, the challenge of implementing raycasting algorithms using C programming and the SDL2 library intrigued me. Initially daunting, delving into raycasting sparked a deep curiosity to understand its core principles.
 
-Admittedly, comprehending raycasting algorithms proved to be a formidable task. The intricacies and mathematical concepts involved pushed me beyond my comfort zone. Yet, I was determined to conquer this hurdle and gain a deep understanding of how raycasting brings a 2D world to life, creating dynamic and immersive gameplay.
+Grasping raycasting's intricacies proved challenging, pushing me beyond my comfort zone with its complex mathematical concepts. However, fueled by determination, I embarked on a journey of exploration. Through diligent study and seeking guidance from experienced developers, I gradually unraveled the mysteries of raycasting.
 
-Throughout the process, I sought out various resources, tutorials, and documentation to unravel the mysteries of raycasting. I delved into the underlying mathematics and absorbed the intricacies of casting rays, calculating intersections, and generating the visual representation of the game world. It was a challenging journey that demanded patience, persistence, and a willingness to learn.
+Despite moments of frustration, witnessing abstract concepts translate into tangible visuals was immensely rewarding. This project not only deepened my understanding of raycasting but also fostered an appreciation for its transformative potential in game development.
 
-There were moments of frustration and confusion, where the complexities of raycasting seemed insurmountable. However, with each obstacle I encountered, I dedicated myself to thorough research and sought guidance from experienced developers. Through their insights and support, I gradually gained a clearer understanding of the algorithms and their practical implementation.
-
-As my comprehension of raycasting grew, so did my excitement. Witnessing the transformation of abstract concepts into tangible visuals was awe-inspiring. The ability to simulate depth, create immersive environments, and bring the maze to life was a testament to the power of raycasting.
-
-This project has not only deepened my understanding of raycasting algorithms but has also sparked a profound appreciation for their potential in game development. It has been a journey of growth and discovery, where I have embraced the challenges and emerged with newfound knowledge and skills.
-
-In conclusion, the Maze game project, driven by the requirement to implement raycasting algorithms using the C programming language and the SDL2 library, presented me with an opportunity for personal and technical growth. Despite the initial difficulties in understanding raycasting, my determination and commitment to learning have propelled me forward. This project has allowed me to expand my understanding of raycasting and witness its transformative impact on creating an immersive gaming experience.
+In summary, while the Maze game project wasn't part of the original plan, it became an avenue for personal and technical growth. Despite initial difficulties, my dedication to learning allowed me to grasp the essence of raycasting and its significance in creating immersive gaming experiences
 
 ## Features
 
@@ -48,7 +40,7 @@ In conclusion, the Maze game project, driven by the requirement to implement ray
 
 1. Clone the repository to your local machine.
 ```
-$ https://github.com/Loaielsamra/Maze-project
+$ https://github.com/Loaielsamra/The_Maze
 ```
 2. Navigate to the project directory.
 ```
@@ -60,7 +52,7 @@ $ make
 ```
 4. Run the game.
 ```
-$ make run
+$ make run or ./maze
 ```
 ## Controls
 
@@ -75,11 +67,6 @@ $ make run
 - Avoid colliding with walls, as the player will slide along them instead of stopping.
 - Utilize the minimap to get an overview of the maze layout and find the exit.
 
-## Development
-
-- If you'd like to contribute to the project, feel free to fork the repository and submit pull requests with your changes.
-- Make sure to follow the coding style and conventions used in the existing codebase.
-
 ## Author
 
-- [Loai Elsamra](https://www.linkedin.com/in/silamlakdesye)
+- [Loai Elsamra](www.linkedin.com/in/loaielsamra)
